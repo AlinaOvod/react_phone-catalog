@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.fbd17519.css",
-    "main.js": "./static/js/main.837f69c5.js",
+    "main.css": "./static/css/main.3cd25166.css",
+    "main.js": "./static/js/main.290c112f.js",
     "static/media/tablets.svg": "./static/media/tablets.cb4d6552f79cdb990bb3.svg",
     "static/media/accessories.svg": "./static/media/accessories.cecbb9b932f6e0cd72f6.svg",
     "static/media/phones.svg": "./static/media/phones.65fe93d1f104791efbd4.svg",
@@ -9,11 +9,11 @@
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
     "index.html": "./index.html",
-    "main.fbd17519.css.map": "./static/css/main.fbd17519.css.map",
-    "main.837f69c5.js.map": "./static/js/main.837f69c5.js.map"
+    "main.3cd25166.css.map": "./static/css/main.3cd25166.css.map",
+    "main.290c112f.js.map": "./static/js/main.290c112f.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbd17519.css",
-    "static/js/main.837f69c5.js"
+    "static/css/main.3cd25166.css",
+    "static/js/main.290c112f.js"
   ]
 }
